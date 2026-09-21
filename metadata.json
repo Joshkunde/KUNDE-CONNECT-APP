@@ -1,0 +1,6 @@
+{
+  "name": "Kunde Connect",
+  "description": "Application sociale pour la RDC axée sur la Famille, la Foi et la Communauté, légère et optimisée pour l'Afrique.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
